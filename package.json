@@ -1,0 +1,26 @@
+{
+  "name": "saurabh_react",
+  "version": "1.0.0",
+  "description": "learning react",
+  "homepage": "https://github.com/sksinha1614/saurabh-react#readme",
+  "bugs": {
+    "url": "https://github.com/sksinha1614/saurabh-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sksinha1614/saurabh-react.git"
+  },
+  "license": "ISC",
+  "author": "saurabh",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
